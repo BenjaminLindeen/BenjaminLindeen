@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my name is Benjamin Lindeen, I am a sophomore computer engineering student and the University of Minneosta: Twin-Cities with a minor in Economics: Monetary Theory and a focus on computer science and data science. 
 
 <!--
 **BenjaminLindeen/BenjaminLindeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
