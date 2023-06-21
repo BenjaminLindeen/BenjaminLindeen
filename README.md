@@ -11,7 +11,7 @@
 ## Connect with Me
 
 - Email: benjaminlindeen@outlook.com | lind1669@umn.edu
-- [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) - [GitHub](https://github.com/BenjaminLindeen) - [Medium](https://medium.com/@benjaminlindeen)
+- [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) - [Personal GitHub](https://github.com/BenjaminLindeen) - [Work/School GitHub](https://github.umn.edu/lind1669)- [Medium](https://medium.com/@benjaminlindeen)
 - Phone: 952-999-0021 
 
 </div>
