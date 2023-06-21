@@ -8,6 +8,11 @@
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenjaminLindeen&theme=radical)](https://wakatime.com/@BenjaminLindeen)
 
+## Connect with Me
+
+- Email: benjaminlindeen@outlook.com | lind1669@umn.edu - Phone: 952-999-0021
+- [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) - [GitHub](https://github.com/BenjaminLindeen) - [Medium](https://medium.com/@benjaminlindeen)
+
 </div>
 
 ## Education
@@ -31,12 +36,3 @@
 - Python, HTML, CSS, Flask, Bootstrap, MongoDB, Twilio, and Google Maps
 - [GitHub Repository](https://github.com/Madhacks-2023-WhatsUpDoc)
 - Have you ever moved to a new city, switched jobs, and therefore changed health insurance providers? Then you know the common struggle people face all around the country when trying to find a new doctor who meets their needs. What's Up Doc provides an intuitive search system that incorporates all of the requirements you may have for a doctor, including but not limited to location, accepted health insurance, specialty, years of experience, etc. With What's Up Doc, you can find your perfect doctor faster than ever.
-
-<div align="center">
-
-## Connect with Me
-
-- Email: benjaminlindeen@outlook.com | lind1669@umn.edu - Phone: 952-999-0021
-- [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) - [GitHub](https://github.com/BenjaminLindeen) - [Medium](https://medium.com/@benjaminlindeen)
-
-</div>
