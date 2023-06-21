@@ -36,28 +36,6 @@ I am a passionate junior computer science student at the University of Minnesota
 - [GitHub Repository](https://github.com/Madhacks-2023-WhatsUpDoc)
 - Have you ever moved to a new city, switched jobs, and therefore changed health insurance providers? Then you know the common struggle people face all around the country when trying to find a new doctor who meets their needs. What's Up Doc provides an intuitive search system that incorporates all of the requirements you may have for a doctor, including but not limited to location, accepted health insurance, specialty, years of experience, etc. With What's Up Doc, you can find your perfect doctor faster than ever.
 
-## References
-
-Alec Hill — Mentor
-Akamai Technologies — Customer Incident Manager 
-hillale@gmail.com
-815-904-1089
-
-Nick Olson — Instructor
-RBA Consulting — Principal Software Engineer
-bignickolson@gmail.com
-763-257-4598
-
-Carlos Lugtu — Mentor
-Rebellion Defense — Engineering Manager
-carlos.lugtu@live.com
-425-435-5378
-
-Parthiv Krishna — Former Teammate
-Stanford — Graduate Student
-parthiv@stanford.edu
-203-822-3999
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/benjaminlindeen)
