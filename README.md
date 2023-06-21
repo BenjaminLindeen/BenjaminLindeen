@@ -10,7 +10,8 @@
 
 ## Connect with Me
 
-- Phone: 952-999-0021 Email: benjaminlindeen@outlook.com | lind1669@umn.edu
+- Email: benjaminlindeen@outlook.com | lind1669@umn.edu
+- Phone: 952-999-0021 
 - [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) - [GitHub](https://github.com/BenjaminLindeen) - [Medium](https://medium.com/@benjaminlindeen)
 
 </div>
