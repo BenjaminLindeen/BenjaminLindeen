@@ -31,40 +31,6 @@ I am a passionate junior computer science student at the University of Minnesota
 - Technologies: Computer Hardware, Robotics, Microsoft Excel, Microsoft Suite, UI Design, UX Design 
 - Soft Skills: Digital Marketing, Sales, Customer Service, Customer Satisfaction
 
-## Experience
-
-### Associate System Administrator, College of Liberal Arts Technologies and Innovation Services, Minneapolis, MN
-- May 2023 - Present
-- Facilitated research technology operations by assisting system administrators in managing Linux and Windows systems.
-- Strengthened LATIS Tier 2 research tech support by verifying permissions, migrating web content, and developing technical documentation.
-- Addressed and resolved hardware and software inquiries to ensure seamless researcher workflow.
-- Created comprehensive documentation resources, including Knowledge Base articles, web documentation, and researcher-facing handouts, to optimize knowledge sharing within the research community.
-
-### Assistant Instructor, Northwest Martial Arts: Twin Cities, Hopkins, MN
-- June 2016 - Present
-- Experienced martial arts instructor with a first-degree black belt in Taekwondo.
-- Dedicated to instilling the five tenets of Taekwondo - courtesy, integrity, perseverance, self-control, and indomitable spirit - in students of all ages and levels.
-- Passionate about helping students achieve their goals and reach their full potential in martial arts.
-
-### Technology and Marketing Intern, Ripple Match, Remote
-- February 2023 - May 2023
-- Increased traffic and sign-ups to Ripple Match through LinkedIn, Discord, and peer-to-peer marketing campaigns.
-
-### Computer Hardware Retailer, SBG Holdings, Hopkins, MN
-- January 2021 - August 2021
-- Demonstrated expertise in online and in-person sales of high-value computer components, such as GPUs, CPUs, RAM, Motherboards, and SSDs.
-- Leveraged in-depth technical marketing, SEO, market analysis, and financial auditing skills to fulfill buying and selling transactions.
-- Achieved impressive financial results, generating high five-figure USD gross and net profit for Q1-Q3 2021.
-- Accomplished these results with minimal upfront capital investment.
-
-### Customer Service Representative and Inventory Specialist, Micro Center, St. Louis Park, MN
-- October 2020 - June 2021
-- Delivered exceptional customer service and provided reliable product information to buyers of consumer electronics.
-- Demonstrated expert knowledge in retail inventory management systems.
-- Consistently achieved top sales performance within the store.
-- Trained in high-volume inventory management systems.
-- Utilized industry-standard retail database software such as Putty.
-
 ## Projects
 
 ### What's Up Doc (Madhacks Hackathon 2023)
