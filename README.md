@@ -6,6 +6,8 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenjaminLindeen&show_icons=true&theme=radical)](https://github.com/BenjaminLindeen)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=benjaminlindeen&theme=dark)](https://git.io/streak-stats)
+
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=benjaminlindeen&layout=compact&theme=radical)](https://wakatime.com/@benjaminlindeen)
 
 ## Connect with Me
