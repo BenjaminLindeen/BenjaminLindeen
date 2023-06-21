@@ -17,11 +17,11 @@
 
 ## Education
 
-- Bachelor of Science in Computer Science, The University of Minnesota - College of Science and Engineering, Minneapolis, MN
+- Bachelor of Science in Computer Science, The University of Minnesota, College of Science and Engineering, Minneapolis, MN
 - Minor in Management: Information Systems, Minor in Applied Economics
 - Concentration: Data Science
-- Organizations: President & Founder: Computer Hardware Club & MultiCultural Personal Finance Club, Member: Association for Computing Machinery
-- Relevant Courses: Introduction to Artificial Intelligence, Algorithms and Data Structures, Program Design and Development, Machine Architecture and Organization, Object Oriented Programming, Advanced Programming Principles, Internet Programming, Discrete Structures of Computer Science.
+- Organizations: President & Founder: Computer Hardware Club & MultiCultural Personal Finance Club; Member: Association for Computing Machinery
+- Relevant Courses: Introduction to Artificial Intelligence, Algorithms and Data Structures, Program Design and Development, Machine Architecture and Organization, Object-Oriented Programming, Advanced Programming Principles, Internet Programming, and Discrete Structures of Computer Science
 
 ## Skills
 
@@ -32,7 +32,6 @@
 
 ## Projects
 
-### What's Up Doc (Madhacks Hackathon 2023)
+### What's Up Doc (Madhacks Hackathon 2023) - [GitHub Repository](https://github.com/Madhacks-2023-WhatsUpDoc)
 - Python, HTML, CSS, Flask, Bootstrap, MongoDB, Twilio, and Google Maps
-- [GitHub Repository](https://github.com/Madhacks-2023-WhatsUpDoc)
 - Have you ever moved to a new city, switched jobs, and therefore changed health insurance providers? Then you know the common struggle people face all around the country when trying to find a new doctor who meets their needs. What's Up Doc provides an intuitive search system that incorporates all of the requirements you may have for a doctor, including but not limited to location, accepted health insurance, specialty, years of experience, etc. With What's Up Doc, you can find your perfect doctor faster than ever.
