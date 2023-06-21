@@ -36,8 +36,8 @@
 
 - [LinkedIn](https://www.linkedin.com/in/benjaminlindeen)
 - [GitHub](https://github.com/BenjaminLindeen)
-- Email: benjaminlindeen@outlook.com
 - [Medium](https://medium.com/@benjaminlindeen)
+- Email: benjaminlindeen@outlook.com
 - Phone: 952-999-0021
 
 </div>
