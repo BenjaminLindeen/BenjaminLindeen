@@ -18,9 +18,8 @@
 
 ## Education
 
-- Bachelor of Science in Computer Science, The University of Minnesota, College of Science and Engineering, Minneapolis, MN
+- Bachelor of Science in Computer Science, Concentration: Data Science, The University of Minnesota, College of Science and Engineering
 - Minor in Management: Information Systems, Minor in Applied Economics
-- Concentration: Data Science
 - Organizations: President & Founder: Computer Hardware Club & MultiCultural Personal Finance Club; Member: Association for Computing Machinery
 - Relevant Courses: Introduction to Artificial Intelligence, Algorithms and Data Structures, Program Design and Development, Machine Architecture and Organization, Object-Oriented Programming, Advanced Programming Principles, Internet Programming, and Discrete Structures of Computer Science
 
