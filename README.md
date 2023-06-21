@@ -8,8 +8,6 @@
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenjaminLindeen&theme=radical)](https://wakatime.com/@BenjaminLindeen)
 
-[![Wakatime Summary](https://github-readme-stats.vercel.app/api/wakatime?username=BenjaminLindeen&theme=radical&layout=compact)](https://wakatime.com/@BenjaminLindeen)
-
 ## About Me
 
 I am a passionate junior computer science student at the University of Minnesota Twin Cities, specializing in software development. I have a keen interest in data science, machine learning, AI, finance, politics, computer hardware, and automobiles. Alongside my major, I also pursue minors in Management: Information Systems and Applied Economics.
