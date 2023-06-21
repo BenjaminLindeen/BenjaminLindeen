@@ -10,7 +10,7 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) | [GitHub (Personal)](https://github.com/BenjaminLindeen) | [GitHub (Work / School)](https://github.umn.edu/lind1669) | [Medium](https://medium.com/@benjaminlindeen) | [PC Part Picker](https://pcpartpicker.com/user/Asian_PC_Guy/saved/)
+- [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) | [Resume](https://docs.google.com/document/d/1umGJqfcDb26GyK_wBpfdNIRu-HMwFcV4mJjp5U9vrVI/edit?usp=sharing) | [GitHub (Personal)](https://github.com/BenjaminLindeen) | [GitHub (Work / School)](https://github.umn.edu/lind1669) | [Medium](https://medium.com/@benjaminlindeen) | [PC Part Picker](https://pcpartpicker.com/user/Asian_PC_Guy/saved/)
 - benjaminlindeen@outlook.com | lind1669@umn.edu
 
 </div>
