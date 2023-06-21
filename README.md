@@ -8,8 +8,6 @@
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenjaminLindeen&theme=radical)](https://wakatime.com/@BenjaminLindeen)
 
-[![Wakatime Summary](https://github-readme-stats.vercel.app/api/wakatime?username=BenjaminLindeen&theme=radical&layout=compact)](https://wakatime.com/@BenjaminLindeen)
-
 ## Education
 
 - Bachelor of Science in Computer Science, The University of Minnesota - College of Science and Engineering, Minneapolis, MN
