@@ -10,8 +10,8 @@
 
 ## Connect with Me
 
-- benjaminlindeen@outlook.com | lind1669@umn.edu
 - [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) - [GitHub (Personal)](https://github.com/BenjaminLindeen) - [GitHub (Work / School)](https://github.umn.edu/lind1669) - [Medium](https://medium.com/@benjaminlindeen)
+- benjaminlindeen@outlook.com | lind1669@umn.edu
 
 </div>
 
