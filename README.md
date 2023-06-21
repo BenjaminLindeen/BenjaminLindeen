@@ -5,7 +5,10 @@
 ### Junior Computer Science Student | University of Minnesota Twin Cities
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenjaminLindeen&show_icons=true&theme=radical)](https://github.com/BenjaminLindeen)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenjaminLindeen&theme=radical&layout=compact)](https://wakatime.com/@BenjaminLindeen)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenjaminLindeen&theme=radical)](https://wakatime.com/@BenjaminLindeen)
+
+[![Wakatime Summary](https://github-readme-stats.vercel.app/api/wakatime?username=BenjaminLindeen&theme=radical&layout=compact)](https://wakatime.com/@BenjaminLindeen)
 
 ## About Me
 
