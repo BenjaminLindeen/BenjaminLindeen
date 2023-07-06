@@ -26,8 +26,8 @@ as of 01/01/2023
 
 ## Skills
 
-- Programming Languages: Python, Java, Ruby, C++, C, JavaScript, OCaml, HTML, CSS 
-- Tools, Frameworks, Libraries: GitHub, Git, Flask, Bootstrap, WordPress, Windows, Linux, Putty, Chef Workstation, Chef DK
+- Programming Languages: Python, Java, Ruby, C++, C, JSON, Javascript, OCaml, HTML, CSS 
+- Tools, Frameworks, Libraries: GitHub, Git, Flask, Bootstrap, WordPress, Linux, Putty, Windows, MacOS, Chef Workstation, Chef DK
 - Technologies: Computer Hardware, Robotics, Microsoft Excel, Microsoft Suite, UI Design, UX Design 
 - Soft Skills: Digital Marketing, Sales, Customer Service, Customer Satisfaction
 
