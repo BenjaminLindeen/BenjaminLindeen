@@ -2,7 +2,7 @@
 
 # Hi, I'm Benjamin Lindeen 👋
 
-### Junior Computer Science Student | University of Minnesota Twin Cities
+### Computer Science Student | University of Minnesota Twin Cities (Spring 2024)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=benjaminlindeen&theme=dark)](https://git.io/streak-stats)
 
