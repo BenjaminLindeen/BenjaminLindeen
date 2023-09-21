@@ -8,8 +8,6 @@
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=benjaminlindeen&layout=compact&theme=radical)](https://wakatime.com/@benjaminlindeen)
 
-as of 01/01/2023
-
 ## Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) | [Resume](https://docs.google.com/document/d/1umGJqfcDb26GyK_wBpfdNIRu-HMwFcV4mJjp5U9vrVI/edit?usp=sharing) | [GitHub (Personal)](https://github.com/BenjaminLindeen) | [GitHub (UMN)](https://github.umn.edu/lind1669) | [DevPost](https://devpost.com/benjaminlindeen?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) | [Medium](https://medium.com/@benjaminlindeen) | [PC Part Picker](https://pcpartpicker.com/user/Asian_PC_Guy/saved/) | benjaminlindeen@outlook.com
