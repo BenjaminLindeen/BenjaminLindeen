@@ -16,7 +16,7 @@
 
 ## Education
 
-### Bachelor of Science in Computer Science, Concentration: Data Science 
+### Bachelor of Science in Computer Science, Concentration: Data Science & Web Development
 - September 2021 - May 2025
 - The University of Minnesota, College of Science and Engineering
 - Minor in Management: Information Systems, Minor in Applied Economics
