@@ -44,16 +44,17 @@
 
 ## Projects
 
+### TBD (HackUIowa Hackathon 2023) - [GitHub Repository](https://github.com/Crustacean-Hacks/HackUIowa)
+- Tech Stack: Python, HTML, CSS, Flask, Bootstrap, MongoDB, Twilio, Google Maps API
+- MongoDB award winner @ HackUIowa Hackathon 2023
+- Have you ever found yourself endlessly browsing the internet only to realize that you haven't accomplished anything during that time? With TabTime you'll never lose track of your internet usage again!
+
 ### What's Up Doc (Madhacks Hackathon 2023) - [GitHub Repository](https://github.com/Madhacks-2023-WhatsUpDoc) [Devpost](https://www.devpost.com/software/what-s-up-doc-mz0nbq)
 - Tech Stack: Python, HTML, CSS, Flask, Bootstrap, MongoDB, Twilio, and Google Maps
-- Winner at Madhacks Hackathon 2023
+- Domain.com award winner @ Madhacks Hackathon 2023
 - Have you ever moved to a new city, switched jobs, and therefore changed health insurance providers? Then you know the common struggle people face all around the country when trying to find a new doctor who meets their needs. What's Up Doc provides an intuitive search system that incorporates all of the requirements you may have for a doctor, including but not limited to location, accepted health insurance, specialty, years of experience, etc. With What's Up Doc, you can find your perfect doctor faster than ever.
 
-### TBD (HackUIowa Hackathon 2023) - [GitHub Repository](https://github.com/your-repo-link)
-- Tech Stack: TBD
-- HackUIowa Hackathon 2023
-
-### Personal Website - [GitHub Repository](https://github.com/BenjaminLindeen/personal_website)
+### Personal Website - [GitHub Repository](https://github.com/BenjaminLindeen/personal_website) [Devpost] (https://devpost.com/software/tbd-crustaceonsssss?ref_content=user-portfolio&ref_feature=in_progress)
 - Tech Stack: React.js, JavaScript, HTML, CSS, Chakra UI, Microsoft Azure
 - My personal portfolio website which showcases my work.
 
