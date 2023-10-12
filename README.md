@@ -16,7 +16,9 @@
 
 ## Education
 
-### Bachelor of Science in Computer Science, Concentration: Data Science & Web Development
+### Bachelor of Science in Computer Science
+### Concentration: Data Science & Web Development
+### Minor in Management Information Systems
 - September 2021 - May 2025
 
 ## Experience
