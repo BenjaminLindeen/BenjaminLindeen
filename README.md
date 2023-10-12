@@ -8,20 +8,20 @@ Computer Science Student @ University of Minnesota
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=benjaminlindeen&layout=compact&theme=radical)](https://wakatime.com/@benjaminlindeen)
 
-Connect with Me
+# Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) | [Resume](https://docs.google.com/document/d/1umGJqfcDb26GyK_wBpfdNIRu-HMwFcV4mJjp5U9vrVI/edit?usp=sharing) | [GitHub (Personal)](https://github.com/BenjaminLindeen) | [GitHub (UMN)](https://github.umn.edu/lind1669) | [DevPost](https://devpost.com/benjaminlindeen?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) | [Medium](https://medium.com/@benjaminlindeen) | [PC Part Picker](https://pcpartpicker.com/user/Asian_PC_Guy/saved/) | benjaminlindeen@outlook.com
 
 </div>
 
-#Education
+# Education
 
 Bachelor of Science in Computer Science
 Concentration: Data Science & Web Development
 Minor in Management Information Systems
 - September 2021 - May 2025
 
-#Experience
+# Experience
 
 Associate System Administrator — Liberal Arts Technologies and Innovation Services
 - May 2023 - September 2023
@@ -29,7 +29,7 @@ Associate System Administrator — Liberal Arts Technologies and Innovation Serv
 Customer Service Representative & Inventory Specialist — Micro Center Electronics
 - October 2020 - June 2021
 
-#Projects
+# Projects
 
 TabTime (HackUIowa Hackathon 2023) - [GitHub Repository](https://github.com/Crustacean-Hacks/HackUIowa) [Devpost](https://devpost.com/software/tbd-crustaceonsssss?ref_content=user-portfolio&ref_feature=in_progress)
 - Tech Stack: Python, JavaScript, HTML, CSS, Flask, Chart.js, Bootstrap, MongoDB, OAuth, Chrome API
