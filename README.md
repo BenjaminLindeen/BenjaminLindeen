@@ -12,20 +12,7 @@
 
 </div>
 
-# Education
-Bachelor's of Science in Computer Science
-- Concentration: Data Science & Web Development
-- Minor in Management Information Systems
-- September 2021 - May 2025
-
-# Experience
-Associate System Administrator — Liberal Arts Technologies and Innovation Services
-- May 2023 - September 2023
-
-Customer Service Representative & Inventory Specialist — Micro Center Electronics
-- October 2020 - June 2021
-
-# Projects
+# Cool Projects
 
 TabTime (HackUIowa Hackathon 2023) — [GitHub Repository](https://github.com/Crustacean-Hacks/HackUIowa) [Devpost](https://devpost.com/software/tbd-crustaceonsssss?ref_content=user-portfolio&ref_feature=in_progress)
 - Tech Stack: Python, JavaScript, HTML, CSS, Flask, Chart.js, Bootstrap, MongoDB, OAuth, Chrome API
