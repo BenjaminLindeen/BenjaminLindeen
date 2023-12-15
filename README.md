@@ -4,6 +4,10 @@
 
 ### Computer Science Student @ University of Minnesota
 
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,r,cpp,java,mysql,c,ruby,ocaml,html,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=expressjs,nodejs,pug,flask,bootstrap,git,github,docker,latex,linux,bash,wordpress)](https://skillicons.dev)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=benjaminlindeen&theme=dark)](https://git.io/streak-stats)
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=benjaminlindeen&layout=compact&theme=radical)](https://wakatime.com/@benjaminlindeen)
@@ -11,13 +15,3 @@
 [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) | [Resume](https://docs.google.com/document/d/1umGJqfcDb26GyK_wBpfdNIRu-HMwFcV4mJjp5U9vrVI/edit?usp=sharing) | [GitHub](https://github.com/BenjaminLindeen) | [DevPost](https://devpost.com/benjaminlindeen?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) | [Medium](https://medium.com/@benjaminlindeen) | [PC Part Picker](https://pcpartpicker.com/user/Asian_PC_Guy/saved/) | benjaminlindeen@outlook.com
 
 </div>
-
-# Cool Projects
-
-TabTime (HackUIowa Hackathon 2023) — [GitHub Repository](https://github.com/Crustacean-Hacks/HackUIowa) [Devpost](https://devpost.com/software/tbd-crustaceonsssss?ref_content=user-portfolio&ref_feature=in_progress)
-- Tech Stack: Python, JavaScript, HTML, CSS, Flask, Chart.js, Bootstrap, MongoDB, OAuth, Chrome API
-- MongoDB award winner @ HackUIowa Hackathon 2023
-
-What's Up Doc (Madhacks Hackathon 2023) — [GitHub Repository](https://github.com/Crustacean-Hacks/WhatsUpDoc) [Devpost](https://www.devpost.com/software/what-s-up-doc-mz0nbq)
-- Tech Stack: Python, HTML, CSS, Flask, Bootstrap, MongoDB, Twilio, and Google Maps API
-- Domain.com award winner @ Madhacks Hackathon 2023
