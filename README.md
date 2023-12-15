@@ -2,7 +2,7 @@
 
 # Hi, I'm Benjamin Lindeen 👋
 
-### Computer Science Student @ University of Minnesota
+## Computer Science Student @ University of Minnesota
 
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,r,cpp,java,mysql,c,ruby,ocaml,html,css)](https://skillicons.dev)
 
