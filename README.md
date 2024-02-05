@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,r,cpp,java,mysql,c,ruby,ocaml,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,expressjs,nodejs,pug,flask,numpy,pandas,scikitlearn,bootstrap,git,github,linux,bash,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,expressjs,nodejs,pug,flask,scikitlearn,bootstrap,git,github,linux,bash,wordpress)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=benjaminlindeen&theme=dark)](https://git.io/streak-stats)
 
