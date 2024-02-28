@@ -10,6 +10,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,expressjs,nodejs,pug,flask,scikitlearn,bootstrap,git,github,linux,bash,wordpress)](https://skillicons.dev)
 
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminLindeen)](https://github.com/BenjaminLindeen/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=benjaminlindeen&theme=dark)](https://git.io/streak-stats)
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=benjaminlindeen&layout=compact&theme=radical)](https://wakatime.com/@benjaminlindeen)
