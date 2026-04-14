@@ -10,4 +10,7 @@
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=benjaminlindeen&layout=compact&theme=radical)](https://wakatime.com/@benjaminlindeen)
 
+[//]: # (wakatime-stats)
+[//]: # (end-wakatime-stats)
+
 </div>
