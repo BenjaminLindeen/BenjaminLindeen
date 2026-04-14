@@ -8,9 +8,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=benjaminlindeen&theme=dark)](https://git.io/streak-stats)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=benjaminlindeen&layout=compact&theme=radical)](https://wakatime.com/@benjaminlindeen)
-
-[//]: # (wakatime-stats)
-[//]: # (end-wakatime-stats)
+<!--START_SECTION:COMMIT_BY_ME-->
+<!--END_SECTION:COMMIT_BY_ME-->
 
 </div>
